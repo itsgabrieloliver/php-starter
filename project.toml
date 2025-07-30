@@ -5,7 +5,7 @@ version = "1.0.0"
 
 [[build.env]]
 name = "BP_PHP_SERVER"
-value = "nginx"
+value = "httpd"
 
 [[build.env]]
 name = "PORT"
